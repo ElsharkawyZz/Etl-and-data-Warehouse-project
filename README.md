@@ -95,9 +95,6 @@ project-root/
 * Can we find the correlation between ship mode and return rate?
 * Which top 5 customers made the most profit? 
 
-
-![Alt text](screenshot/Dashbord.png)
-
-
+![Alt text](Dashboard/Dashboard.png)
 
 
