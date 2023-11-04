@@ -46,18 +46,23 @@
 ```
 project-root/
 │
-├── Date Warehouse etl/
-│   ├── date dim
-│   ├── location dim
-│   ├── mode dim
-|   ├── Coustomer dim
-|   ├── Product dim
-|   ├── Sales  Fact
+├── Dashboard/
+│   ├── Dashboard.pbix
+│   ├── Dashboard.png
+|
+├── Data Warehouse/
+│   ├── date dim.ktr
+│   ├── location dim.ktr
+│   ├── mode dim.ktr
+|   ├── Coustomer dim.ktr
+|   ├── Product dim.ktr
+|   ├── Sales  Fact.ktr
+|   ├── DataWarehouse job.kjb
 │
 ├── Database/
 │   ├── Sql Script.sql
 │
-├── data/
+├── Data/
 │   ├── Data Source(Divided and full)
 │   ├── Calender Date
 │
